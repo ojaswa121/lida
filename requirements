@@ -1,0 +1,12 @@
+streamlit>=1.30
+pandas>=2.0
+python-dotenv>=1.0.0
+openai>=1.3.7
+llmx
+lida
+requests
+Pillow
+plotly
+seaborn
+matplotlib
+xmltodict
